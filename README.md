@@ -69,6 +69,7 @@ out loud.
 | `/ig-dm` | The keyword delivery, the first message, the collab pitch, and the two follow-ups. Two. |
 | `/ig-repurpose` | One video, podcast or newsletter into a week of reels and carousels that each stand alone. |
 | `/ig-audit` | Post-mortem on what you already posted. Ranks by outlier multiple and sends per reach, not views. |
+| `stickman-video-director` | Directs complete stick-figure animation videos: story, voiceover, timed storyboard, character continuity, sound, editing, and publishing handoff. |
 
 ## The five tools that actually run
 
@@ -323,6 +324,7 @@ skills/ig-human/humanize.py        the three cleaning passes
 skills/ig-human/detect.py          the five-check panel
 skills/ig-viral/swipe.py           outlier ranking and formula classification
 skills/ig-profile/rubric.json      the 100-point profile score
+skills/stickman-video-director/SKILL.md  end-to-end stickman animation director
 templates/voice.md                 your voice profile. Fill this in first.
 ```
 
